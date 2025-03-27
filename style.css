@@ -3,10 +3,9 @@ body{
 }
 
 h1{
-    style="text-align: center"
-}
+    
 p {
-    background-color: #cccccc;
+   text-align: center;
 }
 
 em strong {
