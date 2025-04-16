@@ -28,18 +28,20 @@ p {
 em strong {
     color: #ff0000;
 }
-.beneficios {
-   background: #FFFFFF;
-   padding: 20px;
+.itens {
+   font-style: italic;
 }
-
+.Beneficio.jpg {
+    background: #FFFFFF;
+    padding: 20px;
+}
 ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
 }
-.imagembeneficios {
+.imagembeneficios{
     width: 50%;
 }
     
